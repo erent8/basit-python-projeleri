@@ -1,0 +1,5 @@
+sayi1 = input('1. Sayı : ')
+sayi2 = input('2. Sayı : ')
+sayi3 = input('3. Sayı : ')
+toplam=float(sayi1)+float(sayi2) +float(sayi3)
+print("Toplam :{0} ".format(toplam))
